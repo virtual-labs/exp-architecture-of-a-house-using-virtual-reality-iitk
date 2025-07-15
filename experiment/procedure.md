@@ -1,7 +1,7 @@
-Lab launching procedure
-Download the experiment from the mentioned link.
-Install the APK file in your OCULUS device.
-Run the APP from the device application menu.
+<b>Lab launching procedure : </b> <br>
+Download the experiment from the mentioned link.<br>
+Install the APK file in your OCULUS device.<br>
+Run the APP from the device application menu.<br>
 Happy Learning<br>
 Working of an experiment:<br>
 •	You may "walk" through the area and use VR at room scale. You won't trip over a real wall because your virtual world has grid lines.<br>
