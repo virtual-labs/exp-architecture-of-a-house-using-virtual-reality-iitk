@@ -9,12 +9,6 @@
         "c": "Digital, semi-immersive, projective",
         "d": "Immersive, semi-immersive, non-immersive"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -26,12 +20,6 @@
         "c": "It interferes with human senses",
         "d": "It causes pollution"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -39,15 +27,7 @@
       "question": "3.Immersive VR is the most expensive form of VR?",  
       "answers": {
         "a": "TRUE",
-        "b": "FALSE",
-        "c": "",
-        "d": ""
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "FALSE"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -59,12 +39,6 @@
         "b": "Makes ageing faster",
         "c": "Decreases pollution",
         "d": "Helps in agriculture"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
