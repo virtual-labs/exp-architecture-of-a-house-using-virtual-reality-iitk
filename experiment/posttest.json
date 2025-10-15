@@ -9,6 +9,12 @@
         "c": "Digital, semi-immersive, projective",
         "d": "Immersive, semi-immersive, non-immersive"
       },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d":"These are the three main types of VR, categorized by how deeply users are immersed in the virtual environment."
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -20,7 +26,13 @@
         "c": "It interferes with human senses",
         "d": "It causes pollution"
       },
-      "correctAnswer": "c",
+      "explanations": {
+        "a":"A common challenge of VR is eyestrain, motion sickness, and dizziness due to prolonged headset use.",
+        "b":" ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
@@ -28,6 +40,10 @@
       "answers": {
         "a": "TRUE",
         "b": "FALSE"
+      },
+      "explanations": {
+        "a":"Immersive VR requires advanced hardware like headsets, sensors, and motion trackers, making it the most expensive.",
+        "b":" "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -39,6 +55,12 @@
         "b": "Makes ageing faster",
         "c": "Decreases pollution",
         "d": "Helps in agriculture"
+      },
+      "explanations": {
+        "a":"VR provides realistic simulations and enhances learning, training, and entertainment through interactive environments.",
+        "b":" ",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"

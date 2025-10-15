@@ -7,6 +7,10 @@
         "a": "True",
         "b": "False"
       },
+      "explanations": {
+        "a":" ",
+        "b":"AR and VR are different — VR immerses users in a completely virtual world, while AR adds digital elements to the real world."
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -17,6 +21,12 @@
         "b": "Voice",
         "c": "Eyes",
         "d": "Thoughts"
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d":"Future technologies aim to use brain–computer interfaces, allowing people to control devices with their thoughts instead of physical input."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
