@@ -64,6 +64,23 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5.How does Virtual Reality improve client communication in architecture? ",
+      "answers": {
+        "a": "By showing 2D blueprints ",
+        "b": "By allowing clients to experience designs virtually  ",
+        "c": "By reducing construction material cost ",
+        "d": "By generating automatic invoices "
+      },
+      "explanations": {
+        "a":" ",
+        "b":"VR lets clients virtually walk through architectural designs, improving understanding and feedback during the design process. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b ",
+      "difficulty": "beginner"
     }
   ]
 }
