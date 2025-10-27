@@ -1,6 +1,6 @@
 <b>Note: </b> This is a VR-based experiment; in the simulation, you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
 
-| **Step** | **Actual Lab Procedure (Traditional Architecture/Design)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
+| **Step**                                | **Actual Lab Procedure (Traditional Architecture/Design)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
 |-----------|------------------------------------------------------------|-----------------------------------------------------|
 | **1. Layout Planning**                  | Draft the initial 2D floor plan and elevation blueprints to scale on paper or in a CAD program. Calculate room areas and clearances (e.g., minimum door widths). | The user enters the virtual environment where foundational walls, doors, and windows are already modeled (as shown in the video). |
 | **2. Scale Visualization**              | Build a physical scale model (e.g., 1:50 or 1:100) to visualize the space, or present the design via 2D plans and rendered images to the client/jury. | The user moves through the virtual house in 1:1 scale using VR locomotion or teleporting (indicated by pink lines), immediately experiencing room dimensions, ceiling height, and natural light penetration. |
