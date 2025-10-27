@@ -1,12 +1,10 @@
-<b>Lab launching procedure : </b> <br><br>
-• Download the experiment from the mentioned link.<br>
-• Install the APK file in your OCULUS device.<br>
-• Run the APP from the device application menu.<br>
-Happy Learning<br><br>
+<b>Note: </b> This is a VR-based experiment, in the simulation, you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
 
-<b>Working of an experiment: </b><br><br>
-•	You may "walk" through the area and use VR at room scale. You won't trip over a real wall because your virtual world has grid lines.<br>
-•	The user can also choose from a variety of designs of room in the lab to observe, which will aid in their understanding of how to use consoles with VR headsets.<br>
-•	Every object will have clear labels and tooltips so that the user can understand how to pick and throw it.<br>
-•	The user will learn about every term through the slides and video, along with instructions on how to use VR headsets and controllers.<br>
-•	The user can explore and witness the beauty of nature in virtual reality (VR) when the video and slide conclude. This will help the user understand how VR can be used for living in a world that does not exist.<br>
+| **Step** | **Actual Lab Procedure (Traditional Architecture/Design)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
+|-----------|-------------------------------------------------------------|------------------------------------------------------|
+| **1. Layout Planning** | Draft the initial 2D floor plan and elevation blueprints to scale on paper or in a CAD program. Calculate room areas and clearances (e.g., minimum door widths). | The user enters the virtual environment. The foundational walls, doors, and windows are already modeled (as seen in the video). |
+| **2. Scale Visualization** | Build a physical scale model (e.g., 1:50 or 1:100) to visualize the space, or present the design via 2D plans and rendered images to the client/jury. | The user physically moves (using VR locomotion or teleporting as indicated by the pink lines) through the virtual house in 1:1 scale, immediately experiencing the room dimensions, ceiling height, and natural light penetration. |
+| **3. Functional Placement (Furniture)** | Use paper cutouts or CAD blocks representing furniture (Sofa, Table, Bed) and try to fit them onto the 2D plan, relying on imagination for the 3D feel. | The user virtually grabs and drags the virtual furniture items (like the bed, sofa, or table cards shown in the video) and places them in the space, directly checking clearances, walk paths, and sightlines. |
+| **4. Design Modification/Testing** | Based on the physical model inspection, the architect must re-draft the plans or remodel the physical scale model to move walls or doorways (time-consuming). | The user can teleport to an external tool (like the table with Japanese text, implying a configuration menu) to instantly resize walls, change materials, or modify doors and see the update immediately. |
+| **5. Specialized System Check** | Use separate calculation methods to check factors like plumbing flow (toilet/tub) or lighting efficiency across different zones. | The user can trigger interactive systems (like the "PUSH ME" button on the virtual toilet or inspecting the bathtub faucet) to visualize functionality or access embedded data (e.g., water flow simulation, as suggested by the detailed models). |
+| **6. Final Review & Documentation** | Generate final construction documents (blueprints). The client/jury must try to infer the final aesthetic and feel from flat paper. | The user generates a virtual walkthrough or video recording (like the one you provided) and exits the lab with an immediate, immersive understanding of the final design. |
