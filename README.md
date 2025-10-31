@@ -21,6 +21,6 @@ The art of architecture is bringing ideas to life. The goal of every design deve
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Aparna Dixit (Mentor) | Faculty | Physics | PSIT | aparna.dixit@psit.ac.in
-2 | Dhruv Tripathi | Student | IT  |PSIT |
-3 | Akshay Tripathi | Student | CS  |PSIT |
+2 | Dhruv Tripathi | Student | IT  |PSIT | 01dhruvtripathi@gmail.com
+3 | Akshay Tripathi | Student | CS  |PSIT | atripathi5566@gmail.com
 
