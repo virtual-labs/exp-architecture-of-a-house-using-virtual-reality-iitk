@@ -2,35 +2,82 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Augmented reality (AR) and virtual reality (VR) are the same?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a":" ",
+        "b":"AR and VR are different — VR immerses users in a completely virtual world, while AR adds digital elements to the real world."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.How will we interact with technology in the future?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Keyboard",
+        "b": "Voice",
+        "c": "Eyes",
+        "d": "Thoughts"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d":"Future technologies aim to use brain–computer interfaces, allowing people to control devices with their thoughts instead of physical input."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. How can Virtual Reality help architects in designing a house?",
+      "answers": {
+        "a": "By printing house plans ",
+        "b": "By allowing 3D walkthroughs before construction ",
+        "c": "By reducing construction cost automatically ",
+        "d": "By replacing engineers"
+      },
+      "explanations": {
+        "a":" ",
+        "b":"VR enables architects and clients to virtually explore the house design in 3D, making it easier to visualize spaces before actual construction.",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is one major benefit of using VR in architecture?",
+      "answers": {
+        "a": "Speeds up manual drafting ",
+        "b": "Helps in visualizing real-world scale and lighting ",
+        "c": "Eliminates the need for any software ",
+        "d": "Increases paper usage "
+      },
+      "explanations": {
+        "a":" ",
+        "b":"VR helps architects understand spatial relationships, lighting, and scale as they would appear in the real world. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which tool is often used for creating VR architectural models?",
+      "answers": {
+        "a": "Microsoft Word ",
+        "b": "AutoCAD ",
+        "c": "Unreal Engine ",
+        "d": "Excel "
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":"Game engines like Unreal Engine or Unity are commonly used to create immersive, interactive VR experiences for architectural visualization. ",
+        "d":" "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
